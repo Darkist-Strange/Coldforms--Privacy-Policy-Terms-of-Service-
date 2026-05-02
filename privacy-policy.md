@@ -108,14 +108,13 @@ These third-party services may process limited information needed to provide the
 Before launch, this section should be updated to list the specific third-party services used by ColdForms.
 
 Current third-party services may include:
+ColdForms uses or may use a small number of third-party services for specific product functions.
 
-- Apple App Store / App Store Connect
-- [Email List Provider, if any]
-- [Support Ticket Provider, if any]
-- [Crash Reporting Provider, if any]
-- [Analytics Provider, if any]
+- Apple App Store / App Store Connect, for app distribution, purchases, billing, refunds, and update delivery
+- Supabase, for optional waitlist sign-ups, support ticket syncing, and support attachment storage when those cloud features are enabled
+- Sentry, for crash reporting and diagnostics only when crash reporting is enabled in a build
 
-If ColdForms does not use analytics, advertising, or tracking services, this policy should continue to say so clearly.
+If ColdForms does not use analytics, advertising, or tracking services, this policy shall continue to say so clearly.
 
 ## 9. Tracking and Advertising
 
