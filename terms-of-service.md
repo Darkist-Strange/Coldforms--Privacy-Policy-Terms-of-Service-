@@ -1,10 +1,9 @@
 # ColdForms Terms of Service
 
-**Effective Date:** [Insert Date]  
-**App Name:** ColdForms  
-**Owner/Company:** [Insert Legal Name or Business Name]  
-**Contact:** [Insert Support Email]  
-**Website:** [Insert Website or GitHub Pages URL]
+**Effective Date:** May 2, 2026
+**App Name:** ColdForms
+**Owner/Company:** Jason Fehr
+**Contact:** support@coldforms.io
 
 ## 1. Agreement to These Terms
 
@@ -79,7 +78,11 @@ If ColdForms offers paid features, access to those features may depend on your p
 
 If you download ColdForms from the Apple App Store, your use of ColdForms may also be subject to Apple’s applicable terms and conditions.
 
-If there is a conflict between these Terms and Apple’s required terms for App Store distribution, Apple’s terms may apply where required.
+ColdForms distributed through the Apple App Store is licensed under Apple’s Standard Licensed Application End User License Agreement:
+
+**https://www.apple.com/legal/internet-services/itunes/dev/stdeula/**
+
+If any part of these Terms is more permissive than Apple’s Standard EULA or conflicts with Apple’s required terms for App Store distribution, Apple’s Standard EULA controls for the App Store version of ColdForms.
 
 ## 10. Acceptable Use
 
@@ -132,7 +135,7 @@ To the maximum extent permitted by law, we are not responsible for data loss cau
 
 ## 15. Intellectual Property
 
-ColdForms, including its name, design, software, interface, graphics, logos, features, workflows, and related materials, is owned by [Your Company Name] or its licensors.
+ColdForms, including its name, design, software, interface, graphics, logos, features, workflows, and related materials, is owned by Jason Fehr or its licensors.
 
 These Terms do not give you ownership of ColdForms or its intellectual property.
 
@@ -180,7 +183,7 @@ We do not guarantee that ColdForms will be uninterrupted, secure, error-free, co
 
 ## 21. Limitation of Liability
 
-To the maximum extent permitted by law, [Your Company Name] will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, including loss of data, lost profits, business interruption, loss of goodwill, device issues, or loss of business opportunities arising from or related to your use of ColdForms.
+To the maximum extent permitted by law, Jason Fehr will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, including loss of data, lost profits, business interruption, loss of goodwill, device issues, or loss of business opportunities arising from or related to your use of ColdForms.
 
 To the maximum extent permitted by law, our total liability for any claim related to ColdForms will be limited to the amount you paid for ColdForms during the period allowed by applicable law.
 
@@ -188,7 +191,7 @@ Some jurisdictions do not allow certain limitations, so some of these limits may
 
 ## 22. Indemnity
 
-To the maximum extent permitted by law, you agree to defend, indemnify, and hold harmless [Your Company Name] from and against claims, damages, losses, liabilities, costs, and expenses arising from:
+To the maximum extent permitted by law, you agree to defend, indemnify, and hold harmless Jason Fehr from and against claims, damages, losses, liabilities, costs, and expenses arising from:
 
 - Your use of ColdForms
 - Your user content
@@ -207,12 +210,10 @@ Because ColdForms is offline-first, termination of online services may not remov
 
 These Terms are governed by the laws of Alberta, Canada, and the applicable federal laws of Canada, unless applicable law requires otherwise.
 
-You should confirm this section with a qualified legal professional before publishing.
-
 ## 25. Contact
 
 If you have questions about these Terms, contact us at:
 
-**[Your Company Name]**  
-**Email:** [Insert Support Email]  
-**Website:** [Insert Website or GitHub Pages URL]
+**Jason Fehr**
+**Email:** support@coldforms.io
+''';
