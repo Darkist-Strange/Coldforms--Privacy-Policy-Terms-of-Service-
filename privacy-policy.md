@@ -1,10 +1,9 @@
 # ColdForms Privacy Policy
 
-**Effective Date:** May 2 2026
-**App Name:** ColdForms  
-**Owner/Company:** Jason Fehr 
-**Contact:** support@coldfoms.io
-**Website:** https://github.com/Darkist-Strange/Coldforms--Privacy-Policy-Terms-of-Service-/blob/main/privacy-policy.md
+**Effective Date:** May 2, 2026
+**App Name:** ColdForms
+**Owner/Company:** Jason Fehr
+**Contact:** support@coldforms.io
 
 ## 1. Overview
 
@@ -95,26 +94,19 @@ You may unsubscribe from marketing emails at any time by using the unsubscribe l
 
 ## 8. Third-Party Services
 
-ColdForms may use third-party services for limited purposes such as:
+ColdForms uses a small number of third-party services for specific product functions.
 
-- App distribution
-- Email list management
-- Support ticket handling
-- Payment processing through the Apple App Store
-- Crash reporting or diagnostics, if added in the future
+- Apple App Store / App Store Connect, for app distribution, purchases, billing, refunds, and update delivery
+- Supabase, for optional waitlist sign-ups, support ticket syncing, and support attachment storage when those cloud-backed features are used
+- Sentry, for crash reporting and diagnostics in builds where crash reporting is enabled
 
 These third-party services may process limited information needed to provide their services. Their use of information is governed by their own privacy policies.
 
-Before launch, this section should be updated to list the specific third-party services used by ColdForms.
+ColdForms does not currently use third-party analytics or advertising SDKs.
 
-Current third-party services may include:
-ColdForms uses or may use a small number of third-party services for specific product functions.
+The lightweight telemetry described in the app is stored locally on your device and is not sent to a third-party analytics provider unless this policy is updated.
 
-- Apple App Store / App Store Connect, for app distribution, purchases, billing, refunds, and update delivery
-- Supabase, for optional waitlist sign-ups, support ticket syncing, and support attachment storage when those cloud features are enabled
-- Sentry, for crash reporting and diagnostics only when crash reporting is enabled in a build
-
-If ColdForms does not use analytics, advertising, or tracking services, this policy shall continue to say so clearly.
+If additional third-party processors are added later, this policy will be updated before those services are used beyond what applicable law allows.
 
 ## 9. Tracking and Advertising
 
@@ -172,6 +164,6 @@ When we update the policy, we will revise the effective date above. Material cha
 
 If you have questions about this Privacy Policy or how your information is handled, contact us at:
 
-Jason Fehr   
-**Email:** support@coldforms.io 
-**Website:** https://github.com/Darkist-Strange/Coldforms--Privacy-Policy-Terms-of-Service-/blob/main/privacy-policy.md
+**Jason Fehr**
+**Email:** support@coldforms.io
+''';
