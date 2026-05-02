@@ -1,10 +1,10 @@
 # ColdForms Privacy Policy
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** May 2 2026
 **App Name:** ColdForms  
-**Owner/Company:** [Insert Legal Name or Business Name]  
-**Contact:** [Insert Support Email]  
-**Website:** [Insert Website or GitHub Pages URL]
+**Owner/Company:** Jason Fehr 
+**Contact:** support@coldfoms.io
+**Website:** https://github.com/Darkist-Strange/Coldforms--Privacy-Policy-Terms-of-Service-/blob/main/privacy-policy.md
 
 ## 1. Overview
 
@@ -173,6 +173,6 @@ When we update the policy, we will revise the effective date above. Material cha
 
 If you have questions about this Privacy Policy or how your information is handled, contact us at:
 
-**[Your Company Name]**  
-**Email:** [Insert Support Email]  
-**Website:** [Insert Website or GitHub Pages URL]
+Jason Fehr   
+**Email:** support@coldforms.io 
+**Website:** https://github.com/Darkist-Strange/Coldforms--Privacy-Policy-Terms-of-Service-/blob/main/privacy-policy.md
