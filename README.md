@@ -12,4 +12,4 @@ This repository contains public legal documents for ColdForms.
 For support or legal questions, contact:
 
 Jason Fehr  
-**[Insert Support Email]**
+**support@coldforms.io**
